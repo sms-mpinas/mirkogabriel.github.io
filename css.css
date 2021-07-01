@@ -1,0 +1,34 @@
+.container-datos {
+    background-image: url('fondo.png');
+    background-position: 0px 0px;
+    background-size: cover;
+}
+h3, h4, h5, p, ul,li {
+    color: #0e3669
+}
+.red.in {
+    background-image: url('inh.png');
+    background-position: 0px 0px;
+    background-size: cover;
+}
+.red.in:hover {
+    background-image: url('in.png');
+}
+.git {
+    background-image: url('gith.png');
+    background-position: 0px 0px;
+    background-size: cover;
+}
+.git:hover {
+    background-image: url('git.png');
+}
+
+.red 
+{
+    width: 40px;
+    height: 40px;
+    margin-right: 4px;
+    margin-left: 4px;
+    float: left;
+    display: inline-block;
+}
